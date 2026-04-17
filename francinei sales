@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Portfólio migrado para React"
 git branch -M main
-git remote add origin https://github.com/seu-usuario/seu-repositorio.git
+git remote add origin https://github.com/FRANCINEI-SALES/meu-portfolio-react.git
 git push -u origin main
